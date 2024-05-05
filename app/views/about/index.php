@@ -1,5 +1,4 @@
-
-<h1>Main About page</h1>
-<p> Hello , my name is <?=
+<h1 class="text-center">Main About page</h1>
+<p class="text-center"> Hello , my name is <?=
     $data['name'];
     ?></p>

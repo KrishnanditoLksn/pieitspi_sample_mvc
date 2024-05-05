@@ -1,1 +1,1 @@
-<h1>Page</h1>
+<h1 class="text-center">Page</h1>
